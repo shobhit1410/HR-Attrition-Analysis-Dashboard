@@ -8,8 +8,8 @@ Dashboard Preview
  Key Metrics at a Glance
  
 Metric           Value
-Total Employees  1,470
-Active Employees 1,233 
-Attrition Count    237 
-Attrition Rate   16.12% 
-Average Age        37
+Total Employees  1,470;
+Active Employees 1,233 ;
+Attrition Count    237 ;
+Attrition Rate   16.12% ;
+Average Age        37;
