@@ -4,7 +4,8 @@ Employee attrition is one of the most costly challenges organizations face. This
 
 
 Dashboard Preview
-<img width="1558" height="784" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/f47b9a18-a1af-4e07-b92c-aa8f8ffe8cde" />
+<img width="1560" height="815" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/9af33acf-560d-439a-96dd-481ad2ef5797" />
+
  Key Metrics at a Glance
  
 Metric           Value
